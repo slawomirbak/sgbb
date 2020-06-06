@@ -1,0 +1,21 @@
+<svg id="Component_3_1" data-name="Component 3 – 1" xmlns="http://www.w3.org/2000/svg" width="251" height="2045.002" viewBox="0 0 251 2045.002">
+  <path id="Path_73" data-name="Path 73" d="M2956.761,2509.035s-39.831,58.526-79.378,138.88c-7.583,15.407-15.25,31.837-22.607,48.815-26.486,61.129-48.947,129.554-53.206,192.13-7.121,74.719,32.528,170.3,75.626,264.847,30.835,67.648,75.091,160.208,93.8,241.692,14.309,62.308-21.312,237.994-62.944,343.7-42.064,106.8-106.9,240.325-106.486,241.755" transform="translate(-2761 -2218.5)" fill="none" stroke="#8cc6ff" stroke-width="10" stroke-dasharray="20 5"/>
+  <g id="Component_2_4" data-name="Component 2 – 4" transform="translate(170 1182.5)">
+    <path id="Path_71" data-name="Path 71" d="M40,0A40,40,0,1,1,0,40,40,40,0,0,1,40,0Z" fill="#8cc6ff"/>
+    <text id="_3" data-name="3" transform="translate(27 59)" fill="#fff" font-size="48" font-family="RobotoSlab-Regular, Roboto Slab"><tspan x="0" y="0">3</tspan></text>
+  </g>
+  <g id="Component_2_6" data-name="Component 2 – 6" transform="translate(1 639.5)">
+    <path id="Path_71-2" data-name="Path 71" d="M40,0A40,40,0,1,1,0,40,40,40,0,0,1,40,0Z" fill="#8cc6ff"/>
+    <text id="_2" data-name="2" transform="translate(27 59)" fill="#fff" font-size="48" font-family="RobotoSlab-Regular, Roboto Slab"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <g id="Component_2_7" data-name="Component 2 – 7" transform="translate(0 1731.5)">
+    <path id="Path_71-3" data-name="Path 71" d="M40,0A40,40,0,1,1,0,40,40,40,0,0,1,40,0Z" fill="#8cc6ff"/>
+    <text id="_4" data-name="4" transform="translate(26 59)" fill="#fff" font-size="48" font-family="RobotoSlab-Regular, Roboto Slab"><tspan x="0" y="0">4</tspan></text>
+  </g>
+  <g id="Component_2_2" data-name="Component 2 – 2" transform="translate(171 225.5)">
+    <path id="Path_71-4" data-name="Path 71" d="M40,0A40,40,0,1,1,0,40,40,40,0,0,1,40,0Z" fill="#8cc6ff"/>
+    <text id="_1" data-name="1" transform="translate(30 59)" fill="#fff" font-size="48" font-family="RobotoSlab-Regular, Roboto Slab"><tspan x="0" y="0">1</tspan></text>
+  </g>
+  <line id="Line_47" data-name="Line 47" y1="226" transform="translate(211.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+  <line id="Line_48" data-name="Line 48" x1="1" y2="233" transform="translate(39.5 1812)" fill="none" stroke="#707070" stroke-width="1" opacity="0"/>
+</svg>
